@@ -12,6 +12,5 @@ import socket
 ```
 
 ### 도움을 준 사이트들
-https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client
-https://jsikim1.tistory.com/215
-김씩씩님 감사합니다.
+[소켓](https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client)
+[시간 패키지 by 김씩씩](https://jsikim1.tistory.com/215)
